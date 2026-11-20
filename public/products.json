@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "name": "Футболка домашня",        "price": 1299, "category": "Одяг",         "image": "img/jersey-home.svg" },
+  { "id": 2,  "name": "Футболка гостьова",       "price": 1199, "category": "Одяг",         "image": "img/jersey-away.svg" },
+  { "id": 3,  "name": "Ігрові шорти",            "price": 549,  "category": "Одяг",         "image": "img/shorts.svg" },
+  { "id": 4,  "name": "М'яч матчевий Pro",       "price": 1850, "category": "М'ячі",        "image": "img/ball-pro.svg" },
+  { "id": 5,  "name": "М'яч тренувальний",       "price": 790,  "category": "М'ячі",        "image": "img/ball-train.svg" },
+  { "id": 6,  "name": "Бутси для газону",        "price": 2750, "category": "Взуття",       "image": "img/boots.svg" },
+  { "id": 7,  "name": "Бутси для футзалу",       "price": 1980, "category": "Взуття",       "image": "img/futsal.svg" },
+  { "id": 8,  "name": "Рукавиці воротаря",       "price": 920,  "category": "Екіпірування", "image": "img/gloves.svg" },
+  { "id": 9,  "name": "Щитки захисні",           "price": 340,  "category": "Екіпірування", "image": "img/shin.svg" },
+  { "id": 10, "name": "Спортивна сумка команди", "price": 1100, "category": "Екіпірування", "image": "img/bag.svg" }
+]
