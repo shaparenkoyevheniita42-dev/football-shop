@@ -131,9 +131,9 @@ watch(promoCode, val => localStorage.setItem(PROMO_KEY, JSON.stringify(val)))
   </header>
 
   <main id="top">
-    <section class="hero">
-      <h1>Усе для гри — від м'яча до бутс</h1>
-      <p>Обирайте екіпіровку для команди, збирайте кошик і платіть однією сумою.</p>
+     <section class="hero">
+      <h1>Футбольна екіпіровка для барської команди</h1>
+      <p>Обирайте форму, м'ячі та бутси і збирайте кошик за хвилину.</p>
     </section>
 
     <div class="layout">
