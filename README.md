@@ -4,7 +4,7 @@
 
 **Тема:** інтернет-магазин футбольної екіпіровки (продовження сайту «Мій футбол» з КП № 1).
 
-**Демо:** _вставте посилання на GitHub Pages / Netlify_
+**Демо:** https://shaparenkoyevheniita42-dev.github.io/football-shop/
 
 ![Скриншот](screenshot.png)
 
