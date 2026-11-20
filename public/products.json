@@ -1,6 +1,6 @@
 [
-  { "id": 1,  "name": "Футболка домашня",        "price": 1299, "category": "Одяг",         "image": "img/jersey-home.svg" },
-  { "id": 2,  "name": "Футболка гостьова",       "price": 1199, "category": "Одяг",         "image": "img/jersey-away.svg" },
+  { "id": 1,  "name": "Футболка Динамо Київ",        "price": 1350, "category": "Одяг",         "image": "img/jersey-home.svg" },
+  { "id": 2,  "name": "Футболка Шахтар",       "price": 1500, "category": "Одяг",         "image": "img/jersey-away.svg" },
   { "id": 3,  "name": "Ігрові шорти",            "price": 549,  "category": "Одяг",         "image": "img/shorts.svg" },
   { "id": 4,  "name": "М'яч матчевий Pro",       "price": 1850, "category": "М'ячі",        "image": "img/ball-pro.svg" },
   { "id": 5,  "name": "М'яч тренувальний",       "price": 790,  "category": "М'ячі",        "image": "img/ball-train.svg" },
